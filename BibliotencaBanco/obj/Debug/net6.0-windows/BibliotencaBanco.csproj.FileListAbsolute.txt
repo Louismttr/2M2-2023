@@ -1,0 +1,14 @@
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\bin\Debug\net6.0-windows\BibliotencaBanco.deps.json
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\bin\Debug\net6.0-windows\BibliotencaBanco.dll
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\bin\Debug\net6.0-windows\BibliotencaBanco.pdb
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\obj\Debug\net6.0-windows\BibliotencaBanco.csproj.AssemblyReference.cache
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\obj\Debug\net6.0-windows\BibliotencaBanco.frmBancoUI.resources
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\obj\Debug\net6.0-windows\BibliotencaBanco.csproj.GenerateResource.cache
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\obj\Debug\net6.0-windows\BibliotencaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\obj\Debug\net6.0-windows\BibliotencaBanco.AssemblyInfoInputs.cache
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\obj\Debug\net6.0-windows\BibliotencaBanco.AssemblyInfo.cs
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\obj\Debug\net6.0-windows\BibliotencaBanco.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\obj\Debug\net6.0-windows\BibliotencaBanco.dll
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\obj\Debug\net6.0-windows\refint\BibliotencaBanco.dll
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\obj\Debug\net6.0-windows\BibliotencaBanco.pdb
+C:\Users\JADPA-06\Source\Repos\2M2-2023\BibliotencaBanco\obj\Debug\net6.0-windows\ref\BibliotencaBanco.dll
